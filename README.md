@@ -31,6 +31,3 @@ I enjoy working with Java, Spring Boot, databases, and clean backend architectur
 - JWT Authentication basics
 - Unit Testing with JUnit
 - Database relationships
-
-  📫 Contact
-- Email: lei.bayramova111@gmail.com
